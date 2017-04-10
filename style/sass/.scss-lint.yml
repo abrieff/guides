@@ -18,7 +18,7 @@ linters:
     convention: zero
 
   ChainedClasses:
-    enabled: false
+    enabled: true
 
   ColorKeyword:
     enabled: true
